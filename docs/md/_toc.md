@@ -21,3 +21,7 @@
 > :Collapse label=Members
 > 
 > [NN](/docs/members/nn)
+
+> :Collapse label=Filters Excercise
+>
+> [Image filters](/docs/practicas/image)
