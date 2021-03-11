@@ -20,7 +20,7 @@
 
 > :Collapse label=Members
 > 
-> [NN](/docs/members/nn)
+> [Juan Camilo](/docs/members/nn)
 
 > :Collapse label=Filters Excercise
 >
